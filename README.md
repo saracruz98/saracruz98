@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Desarrolladora en formación  <br>🚀 Enfocada en desarrollo web con HTML, CSS, JavaScript, PHP, Laravel y Python  <br>🤝 Abierta a colaborar en proyectos y adquirir experiencia real  <br>📚 En constante aprendizaje y mejora continua  
+👩‍💻 Desarrolladora en formación  <br>🚀 Enfocada en desarrollo web con HTML, CSS, JavaScript, PHP (laravel) y Python  <br>🤝 Abierta a colaborar en proyectos y adquirir experiencia real  <br>📚 En constante aprendizaje y mejora continua  
 
 
 ## 🌐 Socials:
